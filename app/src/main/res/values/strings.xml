@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+<!--    <string name="default_web_client_id">864345299547-b0smov25ocbvme076hn4t9kc3nve90l1.apps.googleusercontent.com</string>-->
+    <string name="default_web_client_id1">864345299547-b0smov25ocbvme076hn4t9kc3nve90l1.apps.googleusercontent.com</string>
+
+</resources>
